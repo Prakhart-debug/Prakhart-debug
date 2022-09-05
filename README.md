@@ -9,8 +9,8 @@
  
  ## About me
 
-Prakhar Tripathi this side, I'm doing my majors in Computers and Communications from [Manipal Institute of Technology](https://manipal.edu/mit.html). Im interested in CyberSecurity, Webdev and learning Competitive Coding while also working in a Virtual Reality Student Project, VISION!
-
+Interested in Web Development and Competitive Coding. Have curiosity in Cyber security :)
+<p>Love Rock 🤟🏻🤟🏻🎸🎸</p>
 
 
 
@@ -25,6 +25,7 @@ Prakhar Tripathi this side, I'm doing my majors in Computers and Communications 
 ![Java](https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java)&nbsp;
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)&nbsp;
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)&nbsp;
+![JS](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)&nbsp;
 
 ### Framework :
 
