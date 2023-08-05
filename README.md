@@ -10,7 +10,7 @@
  ## About me
 
 Interested in Web Development and Competitive Coding. Have curiosity in Cyber security :)
-<p>Love Rock 🤟🏻🤟🏻🎸🎸</p>
+
 
 
 
